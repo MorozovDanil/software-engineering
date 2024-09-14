@@ -1,0 +1,2 @@
+one = ''
+print(bool(one))
